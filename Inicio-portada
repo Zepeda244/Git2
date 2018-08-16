@@ -1,1 +1,12 @@
-este es el lugar para trabajar en la portada de inicio
+<!DOCTYPE HTML>
+<html>
+<center>
+	<IMG src="https://upload.wikimedia.org/wikipedia/commons/b/bd/LOGOS-UA-TJMM-new-02.png"
+	 width="450" 
+	 height="300"/>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Curso de Git-GitHub Tecmm</title>
+</head>
+<body bgcolor="Silver">
+	<center>
